@@ -1,8 +1,8 @@
 # Filecoin Storage Provider Priority List
 
-# Priority Issues
+# Priority Bugs
 
-## 1. [PC1 CCX Core Scheduling (YYYY/MM/DD)](issues/pc1-ccx-core-scheduling.md) 
+## 1. [PC1 CCX Core Scheduling (YYYY/MM/DD)](bugs/pc1-ccx-core-scheduling.md) 
 
 ## 2.
 
