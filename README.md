@@ -2,7 +2,7 @@
 
 # Priority Issues
 
-## 1. PC1 CCX Core Scheduling (YYYY/MM/DD)
+## 1. [PC1 CCX Core Scheduling (YYYY/MM/DD)](issues/pc1-ccx-core-scheduling.md) 
 
 ## 2.
 
