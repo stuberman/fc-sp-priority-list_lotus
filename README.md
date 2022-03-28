@@ -30,7 +30,7 @@ A list of bugs and features filecoin SPs would prioritize to be implemented into
 
 Depending on if you want to list a bug or a feature use the template file
 
- [https://github.com/Factor8Solutions/fc-sp-priority-list/blob/master/bugs/priority-bug-template.md](https://github.com/Factor8Solutions/fc-sp-priority-list/blob/master/bugs/priority-bug-template.md)]
+ [https://github.com/Factor8Solutions/fc-sp-priority-list/blob/master/bugs/priority-bug-template.md](https://github.com/Factor8Solutions/fc-sp-priority-list/blob/master/bugs/priority-bug-template.md)
 
  or
 
