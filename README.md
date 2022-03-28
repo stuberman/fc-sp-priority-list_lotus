@@ -4,7 +4,7 @@
 
 ## 1. [PC1 CCX Core Scheduling (YYYY/MM/DD)](bugs/pc1-ccx-core-scheduling.md) 
 
-## 2.
+## 2. [notifs channel closed (YYYY/MM/DD)](bugs/notifs-channel-closed.md)
 
 ## 3.
 
