@@ -4,7 +4,7 @@
 
 ## 2. [notifs channel closed (YYYY/MM/DD)](bugs/notifs-channel-closed.md)
 
-## 3.
+## 3. [Multi GPU Scheduling (YYYY/MM/DD)](bugs/Mulit-GPU-scheduling.m)
 
 ## 4.
 
