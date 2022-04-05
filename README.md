@@ -1,22 +1,22 @@
 # Priority Bugs
 
-## - [PC1 CCX Core Scheduling (YYYY/MM/DD)](bugs/pc1-ccx-core-scheduling.md) 
+## - [PC1 CCX Core Scheduling (2022/04/05)](bugs/pc1-ccx-core-scheduling.md) 
 
-## - [notifs channel closed (YYYY/MM/DD)](bugs/notifs-channel-closed.md)
+## - [notifs channel closed (2022/04/05)](bugs/notifs-channel-closed.md)
 
-## - [Multi GPU Scheduling (YYYY/MM/DD)](bugs/Mulit-GPU-scheduling.m)
+## - [Multi GPU Scheduling (2022/04/05)](bugs/Mulit-GPU-scheduling.m)
 
-## - [Lotus wallet delete - actually delete/remove the key (YYYY/MM/DD)](bugs/lotus-wallet-delete.md)
+## - [Lotus wallet delete - actually delete/remove the key (2022/04/05)](bugs/lotus-wallet-delete.md)
 
 ## - []
 
 # Priority Features
 
-## - [Dedicated unsealed storage paths (YYYY/MM/DD)](https://github.com/Factor8Solutions/fc-sp-priority-list_lotus/blob/master/features/dedicated-unsealed-storage-paths.md)
+## - [Dedicated unsealed storage paths (2022/04/05)](https://github.com/Factor8Solutions/fc-sp-priority-list_lotus/blob/master/features/dedicated-unsealed-storage-paths.md)
 
-## - [Flexible scheduler (YYYY/MM/DD)](https://github.com/Factor8Solutions/fc-sp-priority-list_lotus/blob/master/features/flexible-scheduler.md)
+## - [Flexible scheduler (2022/04/05)](https://github.com/Factor8Solutions/fc-sp-priority-list_lotus/blob/master/features/flexible-scheduler.md)
 
-## - [Multiple markets nodes (YYYY/MM/DD)](https://github.com/Factor8Solutions/fc-sp-priority-list_lotus/blob/master/features/multiple-markets-nodes.md)
+## - [Multiple markets nodes (2022/04/05)](https://github.com/Factor8Solutions/fc-sp-priority-list_lotus/blob/master/features/multiple-markets-nodes.md)
 
 ## - []
 
