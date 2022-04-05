@@ -2,7 +2,7 @@
 
 ## Description
 
-The ability to store the unsealed sector copy in dedicated storage paths. This feature will help with scaling a mining operation. Currently the unsealed sectors can only be stored in the secor store storage - that make access slow and, for the sealed sectors, redundancy schemes overly complicated. 
+The ability to store the unsealed sector copy in dedicated storage paths. This feature will help with scaling a mining operation. Currently the unsealed sectors can only be stored in the sector store storage - that makes access slow and, for the sealed sectors, redundancy schemes overly complicated. 
 
 This storage should be able to live as close to the markets node (or if implemented boost) process for faster retrieval.
 
