@@ -12,7 +12,7 @@
 
 # Priority Features
 
-## 1.
+## 1. [Dedicated unsealed storage paths (YYYY/MM/DD)](https://github.com/Factor8Solutions/fc-sp-priority-list_lotus/blob/master/features/dedicated-unsealed-storage-paths.md)
 
 ## 2.
 
