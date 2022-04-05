@@ -1,26 +1,26 @@
 # Priority Bugs
 
-## 1. [PC1 CCX Core Scheduling (YYYY/MM/DD)](bugs/pc1-ccx-core-scheduling.md) 
+## - [PC1 CCX Core Scheduling (YYYY/MM/DD)](bugs/pc1-ccx-core-scheduling.md) 
 
-## 2. [notifs channel closed (YYYY/MM/DD)](bugs/notifs-channel-closed.md)
+## - [notifs channel closed (YYYY/MM/DD)](bugs/notifs-channel-closed.md)
 
-## 3. [Multi GPU Scheduling (YYYY/MM/DD)](bugs/Mulit-GPU-scheduling.m)
+## - [Multi GPU Scheduling (YYYY/MM/DD)](bugs/Mulit-GPU-scheduling.m)
 
-## 4.
+## - []
 
-## 5.
+## - []
 
 # Priority Features
 
-## 1. [Dedicated unsealed storage paths (YYYY/MM/DD)](https://github.com/Factor8Solutions/fc-sp-priority-list_lotus/blob/master/features/dedicated-unsealed-storage-paths.md)
+## - [Dedicated unsealed storage paths (YYYY/MM/DD)](https://github.com/Factor8Solutions/fc-sp-priority-list_lotus/blob/master/features/dedicated-unsealed-storage-paths.md)
 
-## 2.
+## - []
 
-## 3.
+## - []
 
-## 4.
+## - []
 
-## 5.
+## - []
 
 # About
 
