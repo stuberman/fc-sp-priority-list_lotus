@@ -6,7 +6,7 @@
 
 ## - [Multi GPU Scheduling (YYYY/MM/DD)](bugs/Mulit-GPU-scheduling.m)
 
-## - []
+## - [Lotus wallet delete - actually delete/remove the key (YYYY/MM/DD)](bugs/lotus-wallet-delete.md)
 
 ## - []
 
