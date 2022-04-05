@@ -2,7 +2,7 @@
 
 ## Description
 
-The current lotus scheduler implementation has certain downsides that does not allow a storage provider to get the max. out of the hardware they are running. Having a general implementation that works on top of resource availability is great and should be kept. A flexible scheduler should aim to amend the current implementation and allow for storage providers to replace it with their own scheduler logic.
+The current lotus scheduler implementation has certain downsides that does not allow a storage providers to get the max. out of the hardware they are running. Having a general implementation that works on top of resource availability is great and should be kept. A flexible scheduler should aim to amend the current implementation and allow for storage providers to replace it with their own scheduler logic.
 
 ## Related Discussions/Issues/etc.
 
