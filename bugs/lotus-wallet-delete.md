@@ -1,4 +1,4 @@
-# [Lotus wallet delete - actually delete/remove the key]
+# Lotus wallet delete - actually delete/remove the key
 
 ## Description
 
