@@ -18,7 +18,7 @@
 
 ## - [Multiple markets nodes (2022/04/05)](https://github.com/Factor8Solutions/fc-sp-priority-list_lotus/blob/master/features/multiple-markets-nodes.md)
 
-## - []
+## - [Finalize Splitstore (2022/04/06)](https://github.com/Factor8Solutions/fc-sp-priority-list_lotus/blob/master/features/finalize-splitstore.md)
 
 ## - []
 
