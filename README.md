@@ -1,3 +1,10 @@
+# IMPORTANT 
+
+This list is closed for input/not being maintained until the members of the SPA decide how to handle its workflow. 
+
+The below list of Issues serves as a reference for now on what issues came up in discussion with SPs in the filecoin ecosystem before the transfer to the SPA.
+
+
 # Priority Bugs
 
 ## - [PC1 CCX Core Scheduling (2022/04/05)](bugs/pc1-ccx-core-scheduling.md) 
