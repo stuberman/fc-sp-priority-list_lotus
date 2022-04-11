@@ -8,6 +8,8 @@ The current lotus scheduler implementation has certain downsides that does not a
 
 An example of this being planned/implemented: https://github.com/filecoin-project/devgrants/issues/445
 
+Input from Jonathan: The scheduler needs to be manipulated for different tech designs. For example, when it fails over it can't correct its self. It's easier to turn off and start again. We just want a very simple round robin on PC1s.
+
 Issues:
 
 https://github.com/filecoin-project/lotus/issues/7868
