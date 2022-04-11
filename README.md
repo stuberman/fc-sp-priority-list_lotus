@@ -22,6 +22,14 @@
 
 ## - []
 
+# Sealing Features
+
+## - [Insert worker groups]
+
+## - [Insert recallable API access tokens]
+
+## - [Insert resumeable data transfers]
+
 # About
 
 A list of bugs and features filecoin SPs would prioritize to be implemented into the [filecoin-project/lotus](https://github.com/filecoin-project/lotus) software.
