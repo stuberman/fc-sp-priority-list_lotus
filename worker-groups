@@ -1,0 +1,13 @@
+# Worker Groups
+
+## Description
+
+The scheduler needs to be able to balance APs by worker groups. If sealing local and remotely or possibly on multiple remotes one needs to be able to balance the APs properly to distribute to the different worker groups. Unable to tell the scheduler that two worker groups are different from each other - local worker group vs. remote worker group.
+
+## Related Filecoin Issues
+
+To be filled in by @dleonx.
+
+## Desired Implementation
+
+To be filled in by @f8-ptrk.
