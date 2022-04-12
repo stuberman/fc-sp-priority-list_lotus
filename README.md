@@ -37,11 +37,11 @@ A list of bugs and features filecoin SPs would prioritize to be implemented into
 
 Depending on if you want to list a bug or a feature use the template file
 
- [https://github.com/Factor8Solutions/fc-sp-priority-list/blob/master/bugs/priority-bug-template.md](https://github.com/Factor8Solutions/fc-sp-priority-list/blob/master/bugs/priority-bug-template.md)
+ [https://https://github.com/storage-provider-association/fc-sp-priority-list_lotus/blob/master/bugs/priority-bug-template.md](https://github.com/storage-provider-association/fc-sp-priority-list_lotus/blob/master/bugs/priority-bug-template.md)
 
  or
 
-  [https://github.com/Factor8Solutions/fc-sp-priority-list/blob/master/features/priority-feat.md](https://github.com/Factor8Solutions/fc-sp-priority-list/blob/master/features/priority-feat.md) 
+  [https://github.com/storage-provider-association/fc-sp-priority-list_lotus/blob/master/features/priority-feat.md](hhttps://github.com/storage-provider-association/fc-sp-priority-list_lotus/blob/master/features/priority-feat.md) 
 
 and fill in the required information - create a PR
 
