@@ -19,13 +19,13 @@ The below list of Issues serves as a reference for now on what issues came up in
 
 # Priority Features
 
-## - [Dedicated unsealed storage paths (2022/04/05)](https://github.com/Factor8Solutions/fc-sp-priority-list_lotus/blob/master/features/dedicated-unsealed-storage-paths.md)
+## - [Dedicated unsealed storage paths (2022/04/05)](features/dedicated-unsealed-storage-paths.md)
 
-## - [Flexible scheduler (2022/04/05)](https://github.com/Factor8Solutions/fc-sp-priority-list_lotus/blob/master/features/flexible-scheduler.md)
+## - [Flexible scheduler (2022/04/05)](features/flexible-scheduler.md)
 
-## - [Multiple markets nodes (2022/04/05)](https://github.com/Factor8Solutions/fc-sp-priority-list_lotus/blob/master/features/multiple-markets-nodes.md)
+## - [Multiple markets nodes (2022/04/05)](features/multiple-markets-nodes.md)
 
-## - [Finalize Splitstore (2022/04/06)](https://github.com/Factor8Solutions/fc-sp-priority-list_lotus/blob/master/features/finalize-splitstore.md)
+## - [Finalize Splitstore (2022/04/06)](features/finalize-splitstore.md)
 
 ## - []
 
