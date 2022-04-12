@@ -41,7 +41,7 @@ Depending on if you want to list a bug or a feature use the template file
 
  or
 
-  [https://github.com/storage-provider-association/fc-sp-priority-list_lotus/blob/master/features/priority-feat.md](hhttps://github.com/storage-provider-association/fc-sp-priority-list_lotus/blob/master/features/priority-feat.md) 
+  [https://github.com/storage-provider-association/fc-sp-priority-list_lotus/blob/master/features/priority-feat.md](https://github.com/storage-provider-association/fc-sp-priority-list_lotus/blob/master/features/priority-feat.md) 
 
 and fill in the required information - create a PR
 
